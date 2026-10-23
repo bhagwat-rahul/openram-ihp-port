@@ -1,7 +1,7 @@
 magic
 tech ihp-sg13g2
 magscale 1 2
-timestamp 1784494981
+timestamp 1792738745
 << error_s >>
 rect 129 161 169 207
 rect 427 161 467 207
@@ -110,28 +110,28 @@ rect 663 1 703 47
 rect 837 1 877 47
 rect 1011 1 1051 47
 rect 1185 1 1225 47
-use sg13_lv_pmos_G9WTGS  XM1
-timestamp 1784494981
+use sg13_lv_pmos_SY7TUA  XM1
+timestamp 1792738745
 transform 1 0 149 0 1 104
 box -149 -104 149 104
-use sg13_lv_pmos_G9WTGS  XM2
-timestamp 1784494981
+use sg13_lv_pmos_SY7TUA  XM2
+timestamp 1792738745
 transform 1 0 447 0 1 104
 box -149 -104 149 104
-use sg13_lv_nmos_EDLQHT  XM3
-timestamp 1784494981
+use sg13_lv_nmos_4YFZYU  XM3
+timestamp 1792738745
 transform 1 0 683 0 1 104
 box -87 -104 87 104
-use sg13_lv_nmos_EDLQHT  XM4
-timestamp 1784494981
+use sg13_lv_nmos_4YFZYU  XM4
+timestamp 1792738745
 transform 1 0 857 0 1 104
 box -87 -104 87 104
-use sg13_lv_nmos_EDLQHT  XM5
-timestamp 1784494981
+use sg13_lv_nmos_4YFZYU  XM5
+timestamp 1792738745
 transform 1 0 1031 0 1 104
 box -87 -104 87 104
-use sg13_lv_nmos_EDLQHT  XM6
-timestamp 1784494981
+use sg13_lv_nmos_4YFZYU  XM6
+timestamp 1792738745
 transform 1 0 1205 0 1 104
 box -87 -104 87 104
 << end >>
