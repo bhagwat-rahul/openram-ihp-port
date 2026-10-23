@@ -1,0 +1,12 @@
+# Reference only: SG13G2 RM_IHPSG13_1P_64x16_c2 BITKIT_CELL array pitch.
+# Adjacent column origins differ by 2810 nm; adjacent row origins by 1070 nm.
+# Full cell geometry spans 3110 x 1990 nm and overlaps neighboring cells.
+# This is not a standalone DRC-clean boundary or a final OpenRAM cell size.
+# Located below the existing device strip; matches the cyan Magic guide.
+VERSION 5.8 ;
+DIVIDERCHAR "/" ;
+BUSBITCHARS "[]" ;
+DESIGN cell_1rw_reference ;
+UNITS DISTANCE MICRONS 1000 ;
+DIEAREA ( 0 -2000 ) ( 2810 -930 ) ;
+END DESIGN

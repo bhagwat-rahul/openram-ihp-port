@@ -134,4 +134,15 @@ use sg13_lv_nmos_4YFZYU  XM6
 timestamp 1792738745
 transform 1 0 1205 0 1 104
 box -87 -104 87 104
+<< elements >>
+rectangle ref_array_pitch port_connections 0 -400 562 -186
+rectangle ref_geometry_envelope pale_labels -30 -492 592 -94
+line ref_center_x cyan 281 -400 281 -186
+line ref_center_y cyan 0 -293 562 -293
+line ref_origin_x cyan -12 -400 12 -400
+line ref_origin_y cyan 0 -412 0 -388
+text ref_pitch_title cyan 281 -440 "REF pitch: 2.81 x 1.07 um (3.0067 um^2)"
+text ref_envelope_title yellow1 281 -530 "REF geometry: 3.11 x 1.99 um; overlaps neighbors"
+text ref_note white 281 -580 "GUIDES ONLY - no mask geometry or electrical pins"
+text ref_origin cyan 140 -355 "Origin: (0, -2.00 um)"
 << end >>
