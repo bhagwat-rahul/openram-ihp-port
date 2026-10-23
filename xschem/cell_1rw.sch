@@ -1,4 +1,4 @@
-v {xschem version=3.4.8RC file_version=1.2}
+v {xschem version=3.4.8RC file_version=1.3}
 G {}
 K {}
 V {}
@@ -91,5 +91,5 @@ C {iopin.sym} -40 110 2 1 {name=br lab=br}
 C {ipin.sym} 0 70 1 0 {name=wl lab=wl}
 C {iopin.sym} 0 -190 3 0 {name=vdd lab=vdd}
 C {iopin.sym} 0 160 1 0 {name=gnd lab=gnd}
-C {lab_wire.sym} 50 -60 1 0 {name=Q_bar sig_type=std_logic lab=Q_bar}
+C {lab_wire.sym} 0 -60 1 1 {name=Q_bar sig_type=std_logic lab=Q_bar}
 C {lab_wire.sym} 0 -100 1 0 {name=Q sig_type=std_logic lab=Q}
